@@ -1,0 +1,24 @@
+.map-container {
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.over-text {
+    pointer-events: none;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    z-index: 100;
+}
+
+.over-text p {
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    opacity: 0.4;
+}

@@ -1,0 +1,14 @@
+.image img {
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+}
+
+.header {
+    font-weight: 700;
+    color: blue;
+}
+
+.content {
+    width: auto
+}

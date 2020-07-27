@@ -1,0 +1,12 @@
+.ui.input.focus {
+    padding: 5% 10%;
+    width: 100%;
+}
+
+.items {
+    align-items: center;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 0 20%;
+}
