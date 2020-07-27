@@ -13,7 +13,7 @@
     width: auto
 }
 
-.item {
+.card-item {
     border: 1px solid black;
     border-radius: 5px;
     margin: 0 20%;

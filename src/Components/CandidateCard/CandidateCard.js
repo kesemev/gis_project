@@ -45,7 +45,7 @@ const CandidateCard = ({ place }) => {
   };
 
   return (
-    <div className="item">
+    <div className="card-item">
       <div className="image">
         <img alt="Place" src={imageLink} />
       </div>
