@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import { createStore, compose } from "redux";
 import { Provider } from "react-redux";
-import reducers from "./Redux/Reducers"; // default going to index.js
+import reducers from "./Redux/Reducers";
 import App from "./App";
 
 const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
